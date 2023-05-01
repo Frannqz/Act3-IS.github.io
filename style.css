@@ -1,0 +1,19 @@
+ParentDiv01 .ChildDivOrig {
+    display: block;
+} 
+.ParentDiv01 .ChildDivNew {
+    display: none;
+}
+.ParentDiv02 .ChildDivOrig {
+    display: none;
+}
+.ParentDiv02 .ChildDivNew {
+    display: block;
+}
+
+.borde{
+    border: 2px solid black;
+    padding-bottom: .5rem;
+    margin: 1rem;
+    border-radius: .5rem;
+}
